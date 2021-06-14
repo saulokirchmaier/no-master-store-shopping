@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/no-master-store-shopping/static/css/main.8eb3a17e.chunk.css",
+    "main.js": "/no-master-store-shopping/static/js/main.00fa163f.chunk.js",
+    "main.js.map": "/no-master-store-shopping/static/js/main.00fa163f.chunk.js.map",
+    "runtime-main.js": "/no-master-store-shopping/static/js/runtime-main.a2f9e188.js",
+    "runtime-main.js.map": "/no-master-store-shopping/static/js/runtime-main.a2f9e188.js.map",
+    "static/js/2.da1a35fe.chunk.js": "/no-master-store-shopping/static/js/2.da1a35fe.chunk.js",
+    "static/js/2.da1a35fe.chunk.js.map": "/no-master-store-shopping/static/js/2.da1a35fe.chunk.js.map",
+    "index.html": "/no-master-store-shopping/index.html",
+    "precache-manifest.48cc1d8aaa3ea4e4bfca175be037d31a.js": "/no-master-store-shopping/precache-manifest.48cc1d8aaa3ea4e4bfca175be037d31a.js",
+    "service-worker.js": "/no-master-store-shopping/service-worker.js",
+    "static/css/main.8eb3a17e.chunk.css.map": "/no-master-store-shopping/static/css/main.8eb3a17e.chunk.css.map",
+    "static/js/2.da1a35fe.chunk.js.LICENSE.txt": "/no-master-store-shopping/static/js/2.da1a35fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2f9e188.js",
+    "static/js/2.da1a35fe.chunk.js",
+    "static/css/main.8eb3a17e.chunk.css",
+    "static/js/main.00fa163f.chunk.js"
+  ]
+}
